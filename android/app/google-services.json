@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974199527585",
+    "project_id": "formative2-8d15c",
+    "storage_bucket": "formative2-8d15c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974199527585:android:4b0058718e17de981df8e0",
+        "android_client_info": {
+          "package_name": "com.example.gakwayaformativeassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQb8nzMBQd8l7-BOL47KtgED9Zadly788"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
